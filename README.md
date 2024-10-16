@@ -7,3 +7,4 @@
 | Workshop 1      | [Developing Business Mindset](https://github.com/antematter/workshopHub/tree/master/Developing-Business-Mindset) |
 | Workshop 2      | [Qualtiy Assurance in Development Lifecylce](https://github.com/antematter/workshopHub/tree/master/Qualtiy-Assurance-in-Development-Lifecylce) |
 | Workshop 3      | [From Developer to Consultant: Balancing Innovation and Reliability](https://github.com/antematter/workshopHub/tree/master/From-Developer-to-Consultant-Balancing-Innovation-and-Reliability) |
+| Workshop 4      | [Intro to Infrastructure as Code with AWS CDK](https://github.com/antematter/workshopHub/tree/master/Intro-to-Infrastructure-as-Code-with-AWS-CDK) |
